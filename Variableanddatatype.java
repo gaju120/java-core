@@ -44,5 +44,17 @@ public class Variableanddatatype{
         System.out.println(result);
         System.out.println(num);
 
+       /*  int a=3;
+        int b=4;
+        int c=a++ + ++b + --a
+        int a=10;*/ //this is the question for practice
+        
+
+        //exicutiomn of program loop or logic
+        //
+        //first is selection stetment
+        //itration stetment
+        //jump stetment
+
     }
 }
