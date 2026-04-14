@@ -35,7 +35,7 @@ System.out.println("graid a");
 
       int year =2026;
       boolean isleap=(year % 4==0 && year % 100!=0 )||(year %400==0);
-      System.out.println(isleap ? "leap year":"notleap year");
+      System.out.println(isleap ? "leap year":"not leap year");// this is the simple way to use condion stetment like if else
 
     }
 }
@@ -43,3 +43,6 @@ System.out.println("graid a");
 //ternari operator is compact form of
 //(condition)?(value is true):(value is false)
 //String result =(age >=18)? "you are eligibale":"not eligible for vote";
+//itestion oprator aslong asboolean condition is true
+//this avoid to repited code righiting
+//in java we have for loops and while loop and do while loop
