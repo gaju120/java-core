@@ -1,0 +1,19 @@
+class classname{
+
+    classname(){
+        //initialization code
+    }
+}
+
+//no retun type
+
+
+//this refer to corunt frefer to class ths use to naming complax
+//
+
+
+//insted of rerite asame code multiple paces child class to derive  class to re use the parent class propertice
+
+//single multilevel, and multiple, hirarkey
+
+//code reuseability
