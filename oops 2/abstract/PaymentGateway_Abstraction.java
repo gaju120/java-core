@@ -40,7 +40,7 @@ class UpiPayment extends Payment {
 class NetBankingPayment extends Payment {
     private String userId;
     public NetBankingPayment(String userId) {
-        this.userId = userId;
+        this.userId = userId;                    // Constructor to initialize userId
     }
     @Override
     void processPayment(double amount) {
